@@ -1,0 +1,15 @@
+C:\Users\tanne\documents\bootcamp\c-sharp\learning-playground\first-step\bin\Debug\net6.0\first-step.exe
+C:\Users\tanne\documents\bootcamp\c-sharp\learning-playground\first-step\bin\Debug\net6.0\first-step.deps.json
+C:\Users\tanne\documents\bootcamp\c-sharp\learning-playground\first-step\bin\Debug\net6.0\first-step.runtimeconfig.json
+C:\Users\tanne\documents\bootcamp\c-sharp\learning-playground\first-step\bin\Debug\net6.0\first-step.dll
+C:\Users\tanne\documents\bootcamp\c-sharp\learning-playground\first-step\bin\Debug\net6.0\first-step.pdb
+C:\Users\tanne\documents\bootcamp\c-sharp\learning-playground\first-step\obj\Debug\net6.0\first-step.csproj.AssemblyReference.cache
+C:\Users\tanne\documents\bootcamp\c-sharp\learning-playground\first-step\obj\Debug\net6.0\first-step.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tanne\documents\bootcamp\c-sharp\learning-playground\first-step\obj\Debug\net6.0\first-step.AssemblyInfoInputs.cache
+C:\Users\tanne\documents\bootcamp\c-sharp\learning-playground\first-step\obj\Debug\net6.0\first-step.AssemblyInfo.cs
+C:\Users\tanne\documents\bootcamp\c-sharp\learning-playground\first-step\obj\Debug\net6.0\first-step.csproj.CoreCompileInputs.cache
+C:\Users\tanne\documents\bootcamp\c-sharp\learning-playground\first-step\obj\Debug\net6.0\first-step.dll
+C:\Users\tanne\documents\bootcamp\c-sharp\learning-playground\first-step\obj\Debug\net6.0\refint\first-step.dll
+C:\Users\tanne\documents\bootcamp\c-sharp\learning-playground\first-step\obj\Debug\net6.0\first-step.pdb
+C:\Users\tanne\documents\bootcamp\c-sharp\learning-playground\first-step\obj\Debug\net6.0\first-step.genruntimeconfig.cache
+C:\Users\tanne\documents\bootcamp\c-sharp\learning-playground\first-step\obj\Debug\net6.0\ref\first-step.dll
