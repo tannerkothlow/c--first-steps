@@ -53,10 +53,10 @@
 // char firstLetter = firstLetterInput[0];
 // Console.WriteLine(firstLetter);
 
-//==================================================================================================
-
 // Special character escapes
 // Console.WriteLine("\"An A Press is an A press, you can't say it's a half!\"\nWell, TJ \"Henry\" Yoshi, you drooling bafoon.");
+
+//==================================================================================================
 
 // C# also has if else shorthand thank god
 string myCoolString = "Great";
@@ -65,5 +65,18 @@ Console.WriteLine(greatString);
 
 // This works too! :D
 Console.WriteLine(myCoolString == "Great" ? "Great" : "Not great");
+
+// C# switch expressions are the exact same as Javascript
+// Likewise with while expressions
+
+// Do loops are new
+
+int i = 0;
+do {
+    Console.WriteLine(i);
+    i++;
+} while (i < 5);
+
+// Not the syntax they had on W3, but I think this best shows the do loop condition.
 
 //==================================================================================================
